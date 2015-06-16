@@ -39,7 +39,7 @@ def extractSlackUsers(token):
 def selectExerciseAndStartTime():
 
     # Exercise (2 Forms of Strings)
-    exercises = [" PUSHUPS ", " SECOND PLANK ", " SITUPS ", " SECOND WALL SIT ", " SQUATS ", " LUNGES ", "TUCK JUMPS", "DIPS", "JUMPING JACKS"]
+    exercises = [" PUSHUPS ", " SECOND PLANK ", " SITUPS ", " SECOND WALL SIT ", " SQUATS ", " LUNGES ", " TUCK JUMPS ", " DIPS ", " JUMPING JACKS "]
     exerciseAnnouncements = ["PUSHUPS", "PLANK", "SITUPS", "WALLSIT", "SQUATS", "LUNGES", "TUCK JUMPS", "DIPS", "JUMPING JACKS"]
 
     # Random Number generator for Reps/Seconds and Exercise
